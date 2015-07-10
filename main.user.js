@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         OPSkins List Display
 // @namespace    http://andrebaltazar.com/
-// @version      0.1
+// @version      0.2
 // @description  Changes the listing of the items to appear as a list.
 // @author       MAT4DOR
 // @match        https://opskins.com/index.php?loc=shop_browse
